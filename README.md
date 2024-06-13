@@ -1,4 +1,4 @@
-# Password_Strength_Predictor-NLP-
+# Password_Strength_Predictor(NLP)
 
 ## Overview
 The NLP Password Strength Predictor is a machine learning project aimed at evaluating and predicting the strength of passwords using Natural Language Processing (NLP) techniques. The project leverages advanced NLP methods to analyze passwords and classify their strength into predefined categories such as weak, medium, and strong.
@@ -16,4 +16,4 @@ NumPy: Numerical computing.
 Scikit-learn: Machine learning library for model building and evaluation.
 Matplotlib & Seaborn: Data visualization.
 
-## Source: Custom-made in sql.
+ Source: Custom-made in sql.
