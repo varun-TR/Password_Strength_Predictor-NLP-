@@ -19,8 +19,7 @@ Matplotlib & Seaborn: Data visualization.
  Source: Custom-made in sql.
 
 ## How to run:
-markdown
-Copy code
+
 # Password Strength Predictor API
 
 This project is a Password Strength Predictor API built using BentoML and a pre-trained Logistic Regression model. The API takes a password as input and classifies its strength as either "weak", "medium strength", or "strong".
