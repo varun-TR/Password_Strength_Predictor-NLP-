@@ -1,0 +1,13 @@
+prefix=/Users/trsaivarun/Desktop/git_uploads/MachineLearning-DeepDive/Password_Strength_Predictor-NLP-/venv
+exec_prefix=/Users/trsaivarun/Desktop/git_uploads/MachineLearning-DeepDive/Password_Strength_Predictor-NLP-/venv
+libdir=/Users/trsaivarun/Desktop/git_uploads/MachineLearning-DeepDive/Password_Strength_Predictor-NLP-/venv/lib
+sharedlibdir=/Users/trsaivarun/Desktop/git_uploads/MachineLearning-DeepDive/Password_Strength_Predictor-NLP-/venv/lib
+includedir=/Users/trsaivarun/Desktop/git_uploads/MachineLearning-DeepDive/Password_Strength_Predictor-NLP-/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

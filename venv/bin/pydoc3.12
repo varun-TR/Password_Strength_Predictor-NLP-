@@ -1,0 +1,5 @@
+#!/Users/trsaivarun/Desktop/git_uploads/MachineLearning-DeepDive/Password_Strength_Predictor-NLP-/venv/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
